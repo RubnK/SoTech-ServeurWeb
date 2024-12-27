@@ -9,15 +9,6 @@ use App\Models\Type;
 
 class MainController extends CoreController
 {
-
-    public function test()
-    {
-        $brandModel = new Brand(); // peut modifier Brand avec les autres nom de model pour tester
-        $list = $brandModel->findAll();
-        $elem = $brandModel->find(7);
-        dump($list);
-        dump($elem);
-    }
     /**
      * Affiche la page d'accueil du site
      */

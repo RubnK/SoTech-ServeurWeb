@@ -1,4 +1,3 @@
-<h1>Product numero <?=$viewData['productId']?></h1>
 <section class="hero">
     <div class="container">
       <!-- Breadcrumbs -->
@@ -24,7 +23,7 @@
         <div class="col-lg-6 col-sm-12">
           <div class="mb-3">
             <h3 class="h3 text-uppercase mb-1"><?=$viewData['product']->getName()?></h3>
-            <div class="text-muted">by <em>BOOTstrap</em></div>
+            <div class="text-muted">by <em><?=$viewData['product']->getBrand_name()?></em></div>
             <div>
               <i class="fa fa-star"></i>
               <i class="fa fa-star"></i>

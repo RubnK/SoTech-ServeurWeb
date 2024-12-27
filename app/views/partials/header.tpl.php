@@ -9,37 +9,22 @@
   <link rel="stylesheet" href="<?=$absoluteURL?>/assets/css/bootstrap.min.css">
   <link rel="stylesheet" href="<?=$absoluteURL?>/assets/css/font-awesome.min.css">
   <link rel="stylesheet" href="<?=$absoluteURL?>/assets/css/styles.css">
-  <title>oShop</title>
+  <title>SoTech</title>
 </head>
 
 <body>
   <header>
-    <div class="top-bar">
-      <div class="container-fluid">
-        <div class="row d-flex align-items-center">
-          <div class="col-sm-7 d-none d-sm-block">
-            <ul class="list-inline mb-0">
-              <li class="list-inline-item pr-3 mr-0">
-                <i class="fa fa-phone"></i> 01 02 03 04 05
-              </li>
-              <li class="list-inline-item px-3 border-left d-none d-lg-inline-block">Livraison offerte à partir de 100€</li>
-            </ul>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <nav class="navbar navbar-expand-lg navbar-sticky navbar-airy navbar-light">
       <div class="container-fluid">
         <!-- Navbar Header  -->
-        <a href="index.html" class="navbar-brand">oShop</a>
+        <a href="index.html" class="navbar-brand">SoTech</a>
         <button type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
           aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
         <!-- Navbar Collapse -->
         <div id="navbarCollapse" class="collapse navbar-collapse">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item">
-              <a href="<?=$baseRoute?>" class="nav-link active">Accueil</a>
+              <a href="/" class="nav-link active">Accueil</a>
             </li>
             <li class="nav-item">
               <div class="dropdown">

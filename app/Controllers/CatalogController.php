@@ -76,7 +76,7 @@ class CatalogController extends CoreController
         $productModel = new Product();
 
         $products = $productModel->findByBrand($id_brand);
-        dump($products);
+        //dump($products);
 
         $this->show('brand', [
             'brandId' => $params['id'],
@@ -92,13 +92,11 @@ class CatalogController extends CoreController
      */
     public function product($params)
     {
-        // On va récupérer la liste de tous nos produits
-        // On va se servir de notre model Product
         $productModel = new Product();
         // On stock dans $product le produit que je veux afficher en fonction de son id
         $product = $productModel->find($params['id']);
         // find() prend un parametre id, et fait une requete SQL qui va chercher une élément en fonction de son id
-        dump($product);
+        //dump($product);
 
         // 1er param => la vue qu'on veut afficher
         // 2eme param => les données qu'on veut envoyer a la vue

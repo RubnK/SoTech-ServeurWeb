@@ -4,23 +4,23 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-4 service-column">
-            <i class="fa fa-truck"></i>
+            <i class="fa fa-download"></i>
             <div class="service-text">
-              <h6 class="text-uppercase">Livraison et retour gratuit</h6>
-              <p class="text-muted font-weight-light text-sm mb-0">Livraison gratuite à partir de 100€</p>
+              <h6 class="text-uppercase">Téléchargement direct</h6>
+              <p class="text-muted font-weight-light text-sm mb-0">Téléchargez immédiatement vos logiciels.</p>
             </div>
           </div>
           <div class="col-lg-4 service-column">
             <i class="fa fa-money"></i>
             <div class="service-text">
               <h6 class="text-uppercase">Satisfait ou remboursé</h6>
-              <p class="text-muted font-weight-light text-sm mb-0">30 jours pour renvoyer</p>
+              <p class="text-muted font-weight-light text-sm mb-0">15 jours pour demander un remboursement</p>
             </div>
           </div>
           <div class="col-lg-4 service-column">
             <i class="fa fa-phone"></i>
             <div class="service-text">
-              <h6 class="text-uppercase">01 02 03 04 05</h6>
+              <h6 class="text-uppercase">01 18 72 69 71 67</h6>
               <p class="text-muted font-weight-light text-sm mb-0">Joignable 24/7</p>
             </div>
           </div>
@@ -32,35 +32,35 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6 mb-5 mb-lg-0">
-            <div class="font-weight-bold text-uppercase text-lg text-dark mb-3">oShop</div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
+            <div class="font-weight-bold text-uppercase text-lg text-dark mb-3">SoTech</div>
+            <p>Les logiciels que vous aimez, au meilleur prix..</p>
             <ul class="list-inline">
               <li class="list-inline-item">
-                <a href="#" target="_blank" title="twitter" class="text-muted text-hover-primary">
+                <a href="" target="_blank" title="twitter" class="text-muted text-hover-primary">
                   <i class="fa fa-twitter">
                   </i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#" target="_blank" title="facebook" class="text-muted text-hover-primary">
+                <a href="" target="_blank" title="facebook" class="text-muted text-hover-primary">
                   <i class="fa fa-facebook-official">
                   </i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#" target="_blank" title="instagram" class="text-muted text-hover-primary">
+                <a href="" target="_blank" title="instagram" class="text-muted text-hover-primary">
                   <i class="fa fa-instagram">
                   </i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#" target="_blank" title="pinterest" class="text-muted text-hover-primary">
+                <a href="" target="_blank" title="pinterest" class="text-muted text-hover-primary">
                   <i class="fa fa-pinterest">
                   </i>
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#" target="_blank" title="vimeo" class="text-muted text-hover-primary">
+                <a href="" target="_blank" title="vimeo" class="text-muted text-hover-primary">
                   <i class="fa fa-vimeo">
                   </i>
                 </a>
@@ -69,7 +69,7 @@
           </div>
           <div class="col-lg-6">
             <h6 class="text-uppercase text-dark mb-3">Recevez nos offres promotionnelles</h6>
-            <p class="mb-3"> Lorem ipsum dolor sit amet, at itaque temporibus.</p>
+            <p class="mb-3"> Soyez avertis quand nous sortons de nouveaux logiciels, ou que nous offrons des réductions.</p>
             <form action="#" id="newsletter-form">
               <div class="input-group mb-3">
                 <input type="email" placeholder="Votre adresse email" class="form-control bg-transparent border-secondary border-right-0">
@@ -87,22 +87,22 @@
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-3 text-center text-md-left">
-            <p class="mb-md-0">Tous droits réservés<br>© 2020 oShop</p>
+            <p class="mb-md-0">Tous droits réservés<br>&copy 2024 SoTech</p>
           </div>
           <div class="col-md-6 text-center">
-            <p class="mb-md-0"><a class="text-white" href="#">Mentions légales</a><br><a class="text-white" href="#">Conditions générales de vente</a></p>
+            <p class="mb-md-0"><a class="text-white" href="">Mentions légales</a><br><a class="text-white" href="">Conditions générales de vente</a></p>
           </div>
          
           <div class="col-md-3">
             <ul class="list-inline mb-0 mt-2 mt-md-0 text-center text-md-right">
               <li class="list-inline-item">
-                <img src="assets/images/visa.svg" alt="..." class="payment-icon">
+                <img src="/assets/images/visa.svg" alt="..." class="payment-icon">
               </li>
               <li class="list-inline-item">
-                <img src="assets/images/mastercard.svg" alt="..." class="payment-icon">
+                <img src="/assets/images/mastercard.svg" alt="..." class="payment-icon">
               </li>
               <li class="list-inline-item">
-                <img src="assets/images/paypal.svg" alt="..." class="payment-icon">
+                <img src="/assets/images/paypal.svg" alt="..." class="payment-icon">
               </li>
             </ul>
           </div>

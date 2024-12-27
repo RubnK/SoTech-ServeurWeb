@@ -41,11 +41,7 @@ $router->addRoutes(array(
     array('GET','/catalogue/produit/[i:id]', [
         'controller' => CatalogController::class,
         'action' => 'product'
-    ], 'catalog-product'),
-    array('GET','/test', [
-        'controller' => MainController::class,
-        'action' => 'test'
-    ])
+    ], 'catalog-product')
   ));
 
 // Ici on check si la route sur laquelle on est a bien été mappé
